@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="20c24795-a4ca-402c-8a7d-ddd4efc9563e">
+  <producedTypes>
+    <objectType typeId="713e2fcd-cc5c-434b-9963-4e9d81ff345f" valueTypeId="b5e052c0-c8b2-4f3e-885f-e666f00b1b40"/>
+    <refType typeId="b5f2d6bb-4897-4408-aa07-ad0aab4fb1ef" valueTypeId="ef0bb020-054a-48fd-8c8b-54b91c4f9957"/>
+    <selectionType typeId="e085cd6d-0ab4-4d21-8954-1bbeaec4ed3e" valueTypeId="a8a10a58-43db-42db-9a56-d6fd50f90ed7"/>
+    <listType typeId="369dca5b-64cb-4853-a854-7d71848171d9" valueTypeId="7e29c5a9-9921-4b27-9872-86c5640329d8"/>
+    <managerType typeId="baf96868-9eac-4781-a033-06978813bddd" valueTypeId="e0f7b5d9-6546-42df-84a2-7fa026edbffc"/>
+  </producedTypes>
+  <name>НарядДопуск</name>
+  <synonym>
+    <key>ru</key>
+    <value>Наряд допуск</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.НарядДопуск.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
