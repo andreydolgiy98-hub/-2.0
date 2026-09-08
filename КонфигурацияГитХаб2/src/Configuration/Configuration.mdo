@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.ЗаказНаряд</documents>
+  <documents>Document.НарядДопуск</documents>
 </mdclass:Configuration>
